@@ -142,7 +142,7 @@ public class PlayerMovement : MonoBehaviour
 			return;
 
 		//Handle crouching input. If holding the crouch button but not crouching, crouch
-		if (input.crouchHeld && !isCrouching && isOnGround)
+		if (input.crouchHeld && !isCrouching && !isJumping)
 			Crouch();
 		//Otherwise, if not holding crouch but currently crouching, stand up
 		else if (!input.crouchHeld && isCrouching)
