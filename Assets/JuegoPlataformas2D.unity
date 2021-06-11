@@ -179,6 +179,31 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 61407422880277308, guid: f24e24e57ea9e644f82a528753dae798,
+        type: 3}
+      propertyPath: m_Size.x
+      value: 0.77294767
+      objectReference: {fileID: 0}
+    - target: {fileID: 61407422880277308, guid: f24e24e57ea9e644f82a528753dae798,
+        type: 3}
+      propertyPath: m_Size.y
+      value: 0.8188421
+      objectReference: {fileID: 0}
+    - target: {fileID: 61407422880277308, guid: f24e24e57ea9e644f82a528753dae798,
+        type: 3}
+      propertyPath: m_Offset.x
+      value: 0.013526142
+      objectReference: {fileID: 0}
+    - target: {fileID: 61407422880277308, guid: f24e24e57ea9e644f82a528753dae798,
+        type: 3}
+      propertyPath: m_Offset.y
+      value: -0.04057893
+      objectReference: {fileID: 0}
+    - target: {fileID: 199180441314360868, guid: f24e24e57ea9e644f82a528753dae798,
+        type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f24e24e57ea9e644f82a528753dae798, type: 3}
 --- !u!4 &14377762 stripped
@@ -10826,7 +10851,7 @@ MonoBehaviour:
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
     GateFit: 2
-    m_SensorSize: {x: 2.2195513, y: 1}
+    m_SensorSize: {x: 2.3834198, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
@@ -10843,7 +10868,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 340643138}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.045976, y: -0.8634044, z: -15}
+  m_LocalPosition: {x: 1.0619215, y: -0.8634044, z: -15}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1057345160}
@@ -11019,7 +11044,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 345811189}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.074991, y: -0.40560108, z: -15}
+  m_LocalPosition: {x: 1.0908735, y: -0.4066077, z: -15}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -14519,6 +14544,31 @@ PrefabInstance:
     - target: {fileID: 4159665356646738, guid: f24e24e57ea9e644f82a528753dae798, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 61407422880277308, guid: f24e24e57ea9e644f82a528753dae798,
+        type: 3}
+      propertyPath: m_Size.x
+      value: 0.77294767
+      objectReference: {fileID: 0}
+    - target: {fileID: 61407422880277308, guid: f24e24e57ea9e644f82a528753dae798,
+        type: 3}
+      propertyPath: m_Size.y
+      value: 0.8188421
+      objectReference: {fileID: 0}
+    - target: {fileID: 61407422880277308, guid: f24e24e57ea9e644f82a528753dae798,
+        type: 3}
+      propertyPath: m_Offset.x
+      value: 0.013526142
+      objectReference: {fileID: 0}
+    - target: {fileID: 61407422880277308, guid: f24e24e57ea9e644f82a528753dae798,
+        type: 3}
+      propertyPath: m_Offset.y
+      value: -0.04057893
+      objectReference: {fileID: 0}
+    - target: {fileID: 199180441314360868, guid: f24e24e57ea9e644f82a528753dae798,
+        type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f24e24e57ea9e644f82a528753dae798, type: 3}
